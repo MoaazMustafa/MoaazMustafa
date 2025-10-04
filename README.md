@@ -1,183 +1,100 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm **Moaaz Mustafa**
+# 👋 Hi, I'm **Moaaz Mustafa**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UX+Enthusiast;Software+Engineer;Tech+Explorer;Creative+Problem+Solver" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UX+Enthusiast;Software+Engineer;Tech+Explorer)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🌟 Crafting Digital Experiences with Code & Design
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/moaaz-mustafa-20a742367" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="mailto:contactwithmoaaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
-  <a href="https://moaazmustafa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=FF6B6B" />
-  </a>
-  <a href="https://twitter.com/_moaaz_mustafa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaaz-mustafa-20a742367)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactwithmoaaz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://moaazmustafa.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_moaaz_mustafa)
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist" width="35" height="35" /> About Me
+## 👨‍💻 About Me
 
-```javascript
-const moaaz = {
-    pronouns: "He" | "Him",
-    location: "Earth 🌍",
-    currentFocus: ["Frontend Development", "UX Design", "Web3"],
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-        styling: ["Tailwind CSS", "Bootstrap", "Framer Motion", "GSAP"],
-        backend: ["Node.js", "PostgreSQL", "MySQL", "Prisma"],
-        tools: ["Figma", "Adobe Creative Suite", "Git", "VS Code"]
-    },
-    currentlyLearning: ["Advanced React Patterns", "Web3 Development", "3D Animations"],
-    funFact: "I turn coffee ☕ into beautiful user interfaces ✨",
-    philosophy: "Clean Code + Great Design = Amazing User Experience 🚀"
-};
-```
+- 🔭 Frontend Developer specializing in **React** & **Next.js**
+- 🌱 Currently learning **TypeScript**, **Web3**, and **Advanced Animations**  
+- 💼 Building seamless **UX** with modern **JavaScript** frameworks
+- 🎨 Passionate about **clean code** and **beautiful design**
+- ⚡ Fun fact: I turn ideas into interactive digital experiences!
 
-<details>
-<summary><b>🎯 Current Goals</b></summary>
-<br>
-
-- � Building innovative **React** applications with seamless **UX**
-- 🌱 Mastering **TypeScript** and **Next.js** for production-ready apps
-- 💡 Exploring **Web3** technologies and **blockchain** integration
-- 🎨 Creating **interactive animations** with **Framer Motion** and **GSAP**
-- 📈 Contributing to **open-source** projects and building my developer community
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" alt="Frontend Technologies" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🗄️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,prisma,cpp" alt="Backend Technologies" />
-</p>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### 🎭 Animation & Motion
-<p>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-</p>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🎨 Design & Creative Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" alt="Design Tools" />
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
-</p>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-### 🛠️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" alt="Development Tools" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moaazmustafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaazmustafa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoaazMustafa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazMustafa&layout=compact&theme=radical"/>
 
 </div>
 
 <div align="center">
-  
-### 🔥 Contribution Streak
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazmustafa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MoaazMustafa&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🚀 Featured Projects
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
+| Project | Tech Stack | Links |
+|---------|------------|-------|
+| **Portfolio Website** | React, Next.js, Tailwind CSS | [Live Demo](https://moaazmustafa.com) |
+| **E-commerce App** | React, TypeScript, Prisma | [Code](#) |
+| **Dashboard UI** | Next.js, Framer Motion | [Live Demo](#) |
 
-<div align="center">
-
-| 🎨 Project | 💻 Tech Stack | 🔗 Links |
-|------------|---------------|----------|
-| **Portfolio Website** | React, Next.js, Tailwind, Framer Motion | [Live Demo](https://moaazmustafa.com) • [Code](https://github.com/moaazmustafa) |
-| **Interactive Dashboard** | React, TypeScript, Chart.js | [Live Demo](#) • [Code](#) |
-| **E-commerce Platform** | Next.js, Prisma, PostgreSQL | [Live Demo](#) • [Code](#) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="35" height="35" /> Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/moaazmustafa/moaazmustafa/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="35" height="35" /> Let's Connect & Collaborate!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-**🚀 Always open to discussing new opportunities and innovative projects!**
+[![Portfolio](https://img.shields.io/badge/🌐_Website-FF5722?style=for-the-badge&logoColor=white)](https://moaazmustafa.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/moaaz-mustafa-20a742367)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white)](https://twitter.com/_moaaz_mustafa)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:contactwithmoaaz@gmail.com)
 
-<p>
-  <a href="https://www.moaazmustafa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B" />
-  </a>
-  <a href="https://www.linkedin.com/in/moaaz-mustafa-20a742367" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="https://twitter.com/_moaaz_mustafa" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white&labelColor=1DA1F2" />
-  </a>
-  <a href="https://instagram.com/itx_moaaz" target="_blank">
-    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logoColor=white&labelColor=E4405F" />
-  </a>
-  <a href="mailto:contactwithmoaaz@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335" />
-  </a>
-</p>
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=moaazmustafa&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MoaazMustafa&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 **⭐ Star my repositories if you find them helpful! ⭐**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="50" height="50" />
-
-***Made with ❤️ by Moaaz Mustafa***
+*Made with ❤️ by Moaaz Mustafa*
 
 </div>
