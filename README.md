@@ -2,22 +2,23 @@
 
 # 👋 Hi, I'm **Moaaz Mustafa**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UX+Enthusiast;Software+Engineer;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Production+App+Builder;Software+Engineer;Digital+Solutions+Architect)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaaz-mustafa-20a742367)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactwithmoaaz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://moaazmustafa.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white)](https://moaazmustafa.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_moaaz_mustafa)
 
 </div>
 
 ## 👨‍💻 About Me
 
-- 🔭 Frontend Developer specializing in **React** & **Next.js**
-- 🌱 Currently learning **TypeScript**, **Web3**, and **Advanced Animations**  
-- 💼 Building seamless **UX** with modern **JavaScript** frameworks
-- 🎨 Passionate about **clean code** and **beautiful design**
-- ⚡ Fun fact: I turn ideas into interactive digital experiences!
+- 🔭 **Full-Stack Developer** specializing in **React**, **Next.js** & **Modern Web Technologies**
+- 🌱 Currently mastering **TypeScript**, **Cloud Architecture**, and **DevOps Practices**  
+- 💼 Building **scalable applications** with **production-ready** solutions
+- 🎨 Passionate about **clean architecture**, **beautiful UX**, and **performance optimization**
+- 🚀 **5+ Production Applications** deployed and actively maintained
+- ⚡ Fun fact: I transform complex business requirements into elegant digital solutions!
 
 ## 🛠️ Tech Stack
 
@@ -35,10 +36,12 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -70,17 +73,31 @@
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Links |
-|---------|------------|-------|
-| **Portfolio Website** | React, Next.js, Tailwind CSS | [Live Demo](https://moaazmustafa.com) |
-| **E-commerce App** | React, TypeScript, Prisma | [Code](#) |
-| **Dashboard UI** | Next.js, Framer Motion | [Live Demo](#) |
+<div align="center">
+
+### 💼 Production Applications
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **🌟 Hairsmailer** | Professional email marketing platform with advanced automation | React, Next.js, Prisma, PostgreSQL | [View Live](https://hairsmailer.upvave.app) |
+| **🎨 Composit** | Modern design collaboration tool for creative teams | React, TypeScript, Supabase| [View Live](https://composit.upvave.app) |
+| **📧 Divine Dispatch** | Enterprise-grade email service with analytics dashboard | Next.js, Node.js, PostgreSQL | [View Live](https://divinedispatch.maldev.net) |
+| **⛪ Preach Pro** | Church management and sermon delivery platform | Next.js,Node.JS,  Tailwind CSS | [View Live](https://preachpro.upvave.app) |
+
+### 🛠️ Additional Projects
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **Portfolio Website** | Personal portfolio showcasing projects and skills | Next.js, TypeScript, Framer Motion | [Live](https://moaazmustafa.dev) |
+| **🏥 Hospital Management System** | Complete healthcare management solution | React, Express.js, PostgreSQL | [View Live](https://hms.moaazmustafa.dev) |
+
+</div>
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Website-FF5722?style=for-the-badge&logoColor=white)](https://moaazmustafa.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://moaazmustafa.dev)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/moaaz-mustafa-20a742367)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white)](https://twitter.com/_moaaz_mustafa)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:contactwithmoaaz@gmail.com)
